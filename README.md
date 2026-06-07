@@ -1,28 +1,53 @@
 # Future Capability Preservation
 
-## Notes on Transformation, Continuity and Industrial Intelligence
+## A Research Exploration
 
 How can a system transform without losing the conditions that make future transformation possible?
 
-This repository explores a recurring observation found across industrial, technological, organizational, and governance systems:
+Most modern frameworks are designed to improve performance.
 
-> Systems rarely fail because they change.
->
-> They fail because they change without understanding what must remain intact.
+They help us measure, analyze, predict, and optimize.
 
-As systems become increasingly capable of measurement, prediction, simulation, and optimization, a new question emerges:
+These capabilities have transformed how we manage industrial systems, organizations, infrastructure, technology, and governance.
 
-**How do we preserve future capability while improving present performance?**
+Yet an increasingly important question remains largely unexplored:
 
-This repository contains research notes and papers exploring that question.
+What must be preserved while a system improves?
 
-## Papers
+A system can become more efficient while becoming less adaptable.
 
-### Future Capability Preservation
+It can optimize for current conditions while reducing future options.
 
-A short research note exploring the relationship between transformation, optimization, continuity, and future capability in complex systems.
+It can improve performance while eroding the capabilities that made improvement possible.
 
-## Author
+Future Capability Preservation explores this tension.
+
+The central hypothesis is simple:
+
+The long-term success of a system depends not only on what it achieves, but on what it remains capable of becoming.
+
+This repository contains research notes, papers, observations, and evolving models exploring continuity, transformation, adaptation, and capability across complex systems.
+
+---
+
+### Core Question
+
+How can a system transform without losing the conditions that make future transformation possible?
+
+---
+
+### Current Research Themes
+
+- Transformation and continuity
+- Capability preservation
+- Optimization and adaptation
+- Industrial intelligence
+- Governance and decision systems
+- Identity through change
+
+---
+
+### Author
 
 Linda Thorstensen
 
